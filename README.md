@@ -1,32 +1,10 @@
-# bugbounty-scanner
-DEUS VULT - Ferramenta modular de Bug Bounty e Pentest (em desenvolvimento) com interface interativa, integração com +20 ferramentas e relatórios automáticos.
-# ⚠️ FERRAMENTA EM FASE DE TESTES
+⚠️ FERRAMENTA EM FASE DE TESTES
 
 **Este projeto está em desenvolvimento ativo. Podem existir bugs, funcionalidades incompletas e instabilidades. Use por sua conta e risco e reporte problemas abrindo uma issue.**
 
 ---
 
 # 🛡️ DEUS VULT - BugBounty Scanner
-███████████
-███████████
-███████████
-███████████
-██████████████████████████
-██████████████████████████
-██████████████████████████
-███████████
-███████████
-███████████
-███████████
-██████████████████████████
-██████████████████████████
-██████████████████████████
-███████████
-███████████
-███████████
-███████████
-
-text
 
 **Versão 2.0 (Alpha) | By OpiumGabriel**
 
